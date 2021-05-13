@@ -1,5 +1,8 @@
 # macOS Initialization Scripts
 
-> Modify some system preferences
->
-> Change default file associations
+My preferences.
+
+1. Modify system preferences
+2. Change default file associations
+
+Get more from https://github.com/kevinSuttle/macOS-Defaults

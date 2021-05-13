@@ -1,5 +1,7 @@
 #!/usr/bin/xcrun swift
 
+// For public.* UTIs.
+
 import Foundation
 
 func main() -> Void {
